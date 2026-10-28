@@ -1,0 +1,6 @@
+{
+  "name": "Acadex - Student Cloud Storage & Academic Dashboard",
+  "description": "Centralized student cloud storage and academic information dashboard featuring secure file organization, academic scheduling, school announcements, and administrator controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
